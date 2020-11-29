@@ -2,7 +2,7 @@
 
 **Topic:** "A database for a psychotherapists booking service".
 
-**Short intro:** *Nowadays, especially at quarantine times, maintaining a mental health is becoming more popular and popular. So, services that provide help of psychotherapists can be valuable. That's why, I chose this topic.*
+**Short intro:** *Nowadays, especially at quarantine times, maintaining a mental health is becoming more popular and popular. So, services that provide help of psychotherapists can be valuable. That's why, we chose this topic.*
 
 **Content:** 
 1. Entity Relationships Diagram (ERD), or abstraction of the database using crow's foot notation
